@@ -1,0 +1,18 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Temporary files and logs
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Python env folders
+env/
+venv/
+
+# VSCode config
+.vscode/
+
