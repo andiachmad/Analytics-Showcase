@@ -1,4 +1,4 @@
-### SuperStore Case
+# SuperStore Case
 
 This is my first case study project in the Analytical Showcase portfolio, where I began learning and understanding how to leverage data to produce relevant analytical reports. In this project, I explored and identified key columns that could be used to answer business needs, and transformed them into insights visualized using Power BI. The technical workflow I used follows the general approach already outlined in the main README, as most case studies share a similar analysis pattern.
 
